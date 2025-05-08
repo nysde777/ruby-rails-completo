@@ -9,51 +9,51 @@
 - Ejecución de scripts en Ruby (IRB, archivos .rb)✅
 - Hola Mundo en Ruby✅
 
-### Módulo 2: Sintaxis Básica y Tipos de Datos
-- Variables y constantes
-- Tipos de datos: números (Integer, Float), cadenas (String), símbolos (Symbol)
-- Operadores aritméticos, de comparación y lógicos
-- Estructuras de control: if, else, elsif, unless
-- Bucles: while, until, for, each
-- Métodos básicos de cadenas y números
+### Módulo 2: Sintaxis Básica y Tipos de Datos✅
+- Variables y constantes✅
+- Tipos de datos: números (Integer, Float), cadenas (String), símbolos (Symbol)✅
+- Operadores aritméticos, de comparación y lógicos✅
+- Estructuras de control: if, else, elsif, unless✅
+- Bucles: while, until, for, each✅
+- Métodos básicos de cadenas y números✅
 
-### Módulo 3: Colecciones en Ruby
-- Arrays: creación, manipulación y métodos comunes
-- Hashes: estructura clave-valor, métodos asociados
-- Iteradores: each, map, select, reject, reduce
-- Métodos de ordenación y filtrado
-- Diferencias entre Arrays y Hashes
+### Módulo 3: Colecciones en Ruby✅
+- Arrays: creación, manipulación y métodos comunes✅
+- Hashes: estructura clave-valor, métodos asociados✅
+- Iteradores: each, map, select, reject, reduce✅
+- Métodos de ordenación y filtrado✅
+- Diferencias entre Arrays y Hashes✅
 
 ### Módulo 4: Métodos y Bloques
-- Definición y llamada de métodos
-- Argumentos y valores por defecto
-- Retorno implícito y explícito
-- Bloques, procs y lambdas
-- Yield y su uso en métodos
-- Métodos con argumentos variables (*args, **kwargs)
+- Definición y llamada de métodos✅
+- Argumentos y valores por defecto✅
+- Retorno implícito y explícito✅
+- Bloques, procs y lambdas✅
+- Yield y su uso en métodos✅
+- Métodos con argumentos variables (*args, **kwargs)✅
 
-### Módulo 5: Programación Orientada a Objetos (POO)
-- Clases y objetos
-- Atributos y métodos de instancia
-- Métodos de clase y métodos estáticos
-- Herencia y mixins
-- Módulos como espacios de nombres y mixins
-- Encapsulamiento: private, protected, public
-- Polimorfismo en Ruby
+### Módulo 5: Programación Orientada a Objetos (POO)✅
+- Clases y objetos✅
+- Atributos y métodos de instancia✅
+- Métodos de clase y métodos estáticos✅
+- Herencia y mixins✅
+- Módulos como espacios de nombres y mixins✅
+- Encapsulamiento: private, protected, public✅
+- Polimorfismo en Ruby✅
 
-### Módulo 6: Manejo de Errores y Debugging
-- Excepciones: raise, rescue, ensure, retry
-- Uso de begin/rescue
-- Creación de excepciones personalizadas
-- Depuración con puts, p, pp
-- Introducción a herramientas de depuración (byebug, pry)
+### Módulo 6: Manejo de Errores y Debugging✅
+- Excepciones: raise, rescue, ensure, retry✅
+- Uso de begin/rescue✅
+- Creación de excepciones personalizadas✅
+- Depuración con puts, p, pp✅
+- Introducción a herramientas de depuración (byebug, pry)✅
 
-### Módulo 7: Ruby Intermedio
-- Metaprogramación: define_method, method_missing
-- Reflexión: send, public_send, instance_eval
-- Expresiones regulares (Regex)
-- Manipulación de archivos y entrada/salida (File, IO)
-- Introducción a gemas: instalación y uso (Bundler)
+### Módulo 7: Ruby Intermedio✅
+- Metaprogramación: define_method, method_missing✅
+- Reflexión: send, public_send, instance_eval✅
+- Expresiones regulares (Regex)✅
+- Manipulación de archivos y entrada/salida (File, IO)✅
+- Introducción a gemas: instalación y uso (Bundler)✅
 
 ### Módulo 8: Ruby Avanzado
 - Estructuras de datos avanzadas: Set, Struct
